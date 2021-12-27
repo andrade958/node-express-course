@@ -50,6 +50,8 @@ app.post('/login',function(req,res){
 
 })
 
+
+
 app.listen(8000,function(){console.log('server is listening')})
 
 // ja sam u koraku u kome je trebalo nalepiti kod za get sa id,
